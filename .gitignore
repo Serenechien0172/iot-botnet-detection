@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env/
+*.egg-info/
+
+# Data & models
+data/
+datasets/
+*.csv
+*.h5
+*.model
+*.pkl
+
+# Logs & results
+logs/
+results/
+*.log
+
+# System files
+.DS_Store
